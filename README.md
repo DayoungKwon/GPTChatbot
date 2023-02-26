@@ -12,8 +12,8 @@ Question,Answer,Category
 
 Category : 
 일상 0, 
-이별(부정) 1, 
-사랑(긍정) 2,
+이별/분노/슬픔 등(부정) 1, 
+사랑/기쁨(긍정) 2,
 지식 3
 
 
@@ -22,8 +22,10 @@ Category :
 https://github.com/songys/Chatbot_data
 
 2. AI hub 주제별 텍스트 일상 대화 데이터
-주제는 무시
 
+3. AI hub 감성 대호 말뭉치 
+
+4. Youtube 자막
 
 
 # Reference 
