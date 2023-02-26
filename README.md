@@ -1,4 +1,4 @@
-# KoGPT-Chatbot
+# Couple-Chatbot
 KoGPT2 기반 일상 대화 및 지식 대화 챗봇
 
 # Base model
