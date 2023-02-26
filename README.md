@@ -27,6 +27,8 @@ https://github.com/songys/Chatbot_data
 
 4. Youtube 자막
 
+5. (번외) 우리 커플 대화... 
+
 
 # Reference 
 아래 레포의 코드를 참고하여 작성되었습니다. 
