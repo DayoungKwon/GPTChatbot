@@ -30,6 +30,7 @@ https://github.com/songys/Chatbot_data
 5. (번외) 1:1 카카오톡 대화 (페르소나)
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/21952143/221425074-1da3bc40-f91d-4cb6-bf0f-2a5494d34274.png">
 카카오톡 > 대화 설정 > 저장공간관리 > 대화 저장
+* 이때 csv 변경하기, 파일명에서 이모지제외 (talk_data.csv 처럼 간단하게) 
 
 
 # CLI
